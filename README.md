@@ -1,4 +1,4 @@
-## A film festival website built to technical specification using Bootstrap for a mock client (2019)
+## Watch it Outside - A film festival website built using Bootstrap for a mock client (2019)
 ### Project Overview
 This project completed in 2019 is a film festival website to promote an event and allow people to register for tickets for the event. The website was created to appeal to all ages and offer an excelent user experience for all devices by responding to different viewport sizes. The project was built with bootstrap. [Website](https://mint-made.github.io/watch-it-outside/ "Watch it Outside - Film Festival")
 
