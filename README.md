@@ -9,3 +9,6 @@ This project completed in 2019 is a film festival website to promote an event an
 - HTML / CSS
 - SCSS
 - Bootstrap
+
+### Attribution
+[Bootstrap Theme Kit](https://github.com/HackerThemes/theme-kit) by [HackerThemes](https://hackerthemes.com)
